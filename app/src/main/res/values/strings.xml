@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RequestPermissionsDemo</string>
+    <string name="write_to_file">Write to file</string>
+</resources>
